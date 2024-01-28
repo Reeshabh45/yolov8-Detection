@@ -1,6 +1,6 @@
 # YOLOv8 Traffic Sign Detection
 
-![Traffic Sign Detection](path/to/your/traffic_sign_detection_image.jpg)
+![](https://learnopencv.com/wp-content/uploads/2023/01/evolution-of-yolo-models-1024x576.png)
 
 ## Overview
 
@@ -20,11 +20,3 @@ This project utilizes YOLOv8, a state-of-the-art object detection algorithm, to 
 - PyTorch
 - OpenCV
 - Other dependencies (install using requirements.txt)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/traffic-sign-detection.git
-   cd traffic-sign-detection
